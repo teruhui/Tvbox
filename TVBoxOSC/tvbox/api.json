@@ -296,19 +296,6 @@
             }
         },
         {
-            "key": "哔嘀弹幕",
-            "name": "哔嘀｜弹幕",
-            "type": 3,
-            "api": "csp_Bdys",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "site": "https://www.xlys01.com",
-                "danmu": true
-            }
-        },
-        {
             "key": "玩偶弹幕",
             "name": "玩偶｜4K弹幕",
             "type": 3,
@@ -1509,6 +1496,26 @@
             }
         },
         {
+            "key": "修罗影视",
+            "name": "修罗｜磁力",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./XBPQ/修罗影视.json"
+        },
+        {
+            "key": "80S",
+            "name": "80S｜磁力",
+            "type": 3,
+            "api": "csp_BLSGod",
+            "playerType": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
             "key": "New6v",
             "name": "New6V｜磁力",
             "type": 3,
@@ -1869,6 +1876,26 @@
             "name": "线路6",
             "type": 0,
             "url": "https://jx.yparse.com/index.php?url="
+        },
+        {
+            "name": "线路7",
+            "type": 0,
+            "url": "https://jx.hls.one/?url="
+        },
+        {
+            "name": "线路8",
+            "type": 0,
+            "url": "https://pl.a6club.com/player/analysis.php?v="
+        },
+        {
+            "name": "线路9",
+            "type": 0,
+            "url": "https://jx.2s0.cn/player/?url="
+        },
+        {
+            "name": "线路10",
+            "type": 0,
+            "url": "https://jx.nnxv.cn/tv.php?url="
         }
     ],
     "rules": [
